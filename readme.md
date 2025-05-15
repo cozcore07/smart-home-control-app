@@ -1,7 +1,5 @@
 # Wi-Fi Smart Home Control App 🏠💡
 
-![App Screenshot](assets/app-preview.png)
-
 A cross-platform React Native application for controlling smart home devices over local Wi-Fi network. Perfect for IoT enthusiasts, home automation projects, and developers looking to build smart device controllers.
 
 ---
